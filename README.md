@@ -31,3 +31,6 @@
 
 ## 使用方法
 1. 将编译完成的jar包放入plugins文件夹中，重启服务器。
+
+## 赞助
+爱发电：https://afdian.com/a/reuac
