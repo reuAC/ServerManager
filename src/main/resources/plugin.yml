@@ -1,0 +1,7 @@
+name: ServerManager
+version: '${project.version}'
+main: net.reuac.servermanager.ServerManager
+commands:
+  servermanager:
+    description: "servermanager"
+    aliases: smger
