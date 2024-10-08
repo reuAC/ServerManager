@@ -10,8 +10,8 @@ Invisibility is based on the `hidePlayer` method, not invisibility potions.
 
 ## Commands
 * /servermanager v - Toggle invisibility status
-* /servermanager gm - Switch between Survival and Spectator mode.
-**Using the servermanager command in the console allows you to reload the plugin configuration.**
+* /servermanager gm - Switch between Survival and Spectator mode.  
+**Using the servermanager command in the console allows you to reload the plugin configuration.**  
 **Main command alias: `/smger`**
 
 ## Configuration File
